@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> My Resume</title>
+</head>
+<body>
+    <h1> My Resume</h1>
+    <header>
+        <h1>Sindhu.C p</h1>
+        <p>Email: sindhuc.23mca@Jyotinivas.org</p>
+         <p>Pursuing Master of Computer Application</p>
+        <p>Contact Number: 9663868965</p>
+        <p>Address: Bangalore</p>
+    </header>
+
+    <section>
+        <h2>Objective</h2>
+        <p>Seeking a challenging position in industry where I can utilize my skills to contribute to the success of the company.</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+            <h3>Jyoti Nivas College Autonomous, Bangalore</h3>
+            <p>2024-2025<br>MCA Computer Application (Pursuing)</p>
+            <h3>Bishop Cotton's Women Christian College</h3>
+            <p>2018-2021<br>Bachelors of Computer Application</br></p>
+            <h3>Jyoti Nivas College</h3>
+            <p>2017-2018<br>PUC<br></p>
+            <h3>St Mary's High School</h3>
+            <p>2016<br>SSLC<br></p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul class="skills">
+            <li>C</li>
+            <li>C++</li>
+            <li>Java</li>
+            <li>HTML</li>
+            <li>MySQL</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+       
+            <h3>Covid 19 app</h3>
+            <p>Front End: PHP, HTML, CSS</p>
+       <p>Back End: MySQL</p>
+            
+    </section>
+
+    <section>
+        <h2>Languages Known</h2>
+        <ul>
+            <li>English</li>
+            <li>Kannada</li>
+            <li>Hindi</li>
+            <li>Telugu</li>
+            <li>Tamil</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Interests</h2>
+        <ul>
+            <li>Baking</li>
+            <li>Home Decor</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <h2>Declaration</h2>
+        <p>I hereby declare that the above furnished information is true to the best of my knowledge.</p>
+    </footer>
+</body>
+</html>

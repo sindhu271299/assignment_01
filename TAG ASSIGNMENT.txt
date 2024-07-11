@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Body Tag Example</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is a simple example of using the <code>&lt;body&gt;</code> tag in HTML.</p>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+    <button onclick="displayMessage()">Click Me!</button>
+
+    <script>
+        function displayMessage() {
+            alert("Hello from the button!");
+        }
+    </script>
+</body>
+</html>
